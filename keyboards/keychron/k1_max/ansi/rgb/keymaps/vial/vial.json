@@ -183,6 +183,17 @@
     ]
   },
   "customKeycodes": [
+    {"name": "KC_LOPTN", "title": "Left Option (macOS)", "shortName": "LOpt"},
+    {"name": "KC_ROPTN", "title": "Right Option (macOS)", "shortName": "ROpt"},
+    {"name": "KC_LCMMD", "title": "Left Command (macOS)", "shortName": "LCmd"},
+    {"name": "KC_RCMMD", "title": "Right Command (macOS)", "shortName": "RCmd"},
+    {"name": "KC_MCTRL", "title": "Mission Control (macOS)", "shortName": "MCtrl"},
+    {"name": "KC_LNPAD", "title": "Launchpad (macOS)", "shortName": "LPad"},
+    {"name": "KC_TASK_VIEW", "title": "Task View (Windows)", "shortName": "Task"},
+    {"name": "KC_FILE_EXPLORER", "title": "File Explorer (Windows)", "shortName": "File"},
+    {"name": "KC_SCREEN_SHOT", "title": "Screenshot (macOS)", "shortName": "SShot"},
+    {"name": "KC_CORTANA", "title": "Cortana (Windows)", "shortName": "Cortana"},
+    {"name": "KC_SIRI", "title": "Siri (macOS)", "shortName": "Siri"},
     {
       "name": "BT_HST1",
       "title": "Bluetooth Host 1",

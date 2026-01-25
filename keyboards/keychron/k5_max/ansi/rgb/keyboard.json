@@ -32,5 +32,8 @@
             "splash": true,
             "typing_heatmap": true
         }
-    }
+    },
+    "macros": [
+        [["down", "KC_LCTRL", "USER01", "USER02"], ["tap", "KC_K"], ["up", "KC_LCTRL", "USER01", "USER02"]]
+    ]
 }
